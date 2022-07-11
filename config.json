@@ -5,11 +5,14 @@
     "cuda": false,
     "pools": [
         {
-            "url": "pool.hashvault.pro:443",
-            "user": "484U9WcTLRacUKLXkkgvRaKPimeQHer5whwAbTHH84MxNgwyjPxntnUeZy5nZYiwMv353AUQRqouDiaSuzEMf8oRH1WNdkB",
-            "pass": "Redmi",
+            "coin": null,
+            "algo": null,
+            "url": "rx.unmineable.com:3333",
+            "user": "0x4466af9df6736e3347b19a7fb9a08b5f1d4cbdb2",
+            "pass": "x",
+            "tls": false,
             "keepalive": true,
-            "tls": true
+            "nicehash": false
         }
     ]
 }
