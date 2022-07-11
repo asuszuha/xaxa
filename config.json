@@ -8,7 +8,7 @@
             "coin": null,
             "algo": null,
             "url": "rx.unmineable.com:3333",
-            "user": "0x4466af9df6736e3347b19a7fb9a08b5f1d4cbdb2",
+            "user": "GALA:0x4466af9df6736e3347b19a7fb9a08b5f1d4cbdb2.WPO",
             "pass": "x",
             "tls": false,
             "keepalive": true,
